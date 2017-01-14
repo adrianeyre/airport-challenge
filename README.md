@@ -353,3 +353,9 @@ class Weather
   end
 end
 ```
+
+## <a name="Usage">Usage</a>
+
+
+[![Build Status](https://travis-ci.org/adrianeyre/airport_challenge.svg?branch=master)](https://travis-ci.org/makersacademy/takeaway-challenge)
+[![Coverage Status](https://coveralls.io/repos/adrianeyre/airport_challenge/badge.png)](https://coveralls.io/r/makersacademy/airport_challenge)
